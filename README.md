@@ -1,0 +1,2 @@
+# quicksort
+quicksort deneysel gosterim
